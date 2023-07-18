@@ -22,8 +22,6 @@ The dataset contains the following columns:
 
 ## Results
 
-## Results
-
 ### Visualization of Train Set Predictions
 
 ![Train Set Predictions](https://github.com/nih4t/Car-Purchase-Prediction/assets/82613166/06400fbe-4c30-4037-a3af-2addddc0caf3)
