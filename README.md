@@ -1,11 +1,11 @@
-# Car Purchase Prediction using Logistic Regression
+# Car Purchase Prediction 
 
 ![image](https://github.com/nih4t/Car-Purchase-Prediction/assets/82613166/d8cf7882-90ea-4bff-b467-163d121cd7ad)
 
 
 ## Introduction
 
-This project aims to predict whether a customer will purchase a car or not based on their age and estimated salary. Logistic Regression, a popular classification algorithm, is used for this prediction task.
+This project aims to predict whether a customer will purchase a car or not based on their age and estimated salary. A bunch of popular classification algorithms, are used for this prediction task.
 
 In the automotive industry, understanding customer behavior and preferences is crucial for optimizing marketing strategies. Predicting whether a potential customer will make a car purchase can provide valuable insights into targeted advertising and sales efforts.
 
@@ -22,18 +22,26 @@ The dataset contains the following columns:
 
 ## Results
 
-### Visualization of Train Set Predictions
+### Visualization of Train Set Predictions - Logistic Regression
 
 ![Train Set Predictions](https://github.com/nih4t/Car-Purchase-Prediction/assets/82613166/06400fbe-4c30-4037-a3af-2addddc0caf3)
 
-### Visualization of Test Set Predictions
+### Visualization of Test Set Predictions - Logistic Regression
 
 ![Test Set Predictions](https://github.com/nih4t/Car-Purchase-Prediction/assets/82613166/584e398d-9d8e-4e36-97bb-771b489d54c4)
 
 
-The logistic regression model performed well on both the training and testing datasets. The accuracy level of the model, which measures the proportion of correctly predicted outcomes, is 0.925. This indicates that the model is able to classify customers as potential car buyers or non-buyers with a high level of accuracy.
+The logistic regression model performed well on both the training and testing datasets. The accuracy level of the model, which measures the proportion of correctly predicted outcomes, is 0.925. 
 
-The visualization of the train set predictions shows how well the model fits the training data. Similarly, the visualization of the test set predictions demonstrates the model's performance on unseen data.
+### Visualization of Train Set Predictions - K-nearest neighbors 
+
+![Train Set Predictions](https://github.com/nih4t/Car-Purchase-Prediction/assets/82613166/e6385dee-f1d6-4af9-9d71-95e782474930)
+
+### Visualization of Test Set Predictions - K-nearest neighbors
+
+![Test Set Predictions](https://github.com/nih4t/Car-Purchase-Prediction/assets/82613166/15c47a1d-09ef-488d-8ef4-4acd892ccc97)
+
+The K-nearest neighbors model performed well on both the training and testing datasets. The accuracy level of the model, which measures the proportion of correctly predicted outcomes, is 0.95.
 
 ## Using the Predictions for Social Network Ads
 
