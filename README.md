@@ -55,11 +55,11 @@ The Kernel SVM  model performed well on both the training and testing datasets. 
 
 ### Visualization of Train Set Predictions - Naive Bayes
 
-![Train Set Predictions](https://github.com/nih4t/Car-Purchase-Prediction/assets/82613166/1392b8a4-728b-47aa-8ed3-e0dd72fa3240)
+![Train Set Predictions](https://github.com/nih4t/Car-Purchase-Prediction/assets/82613166/7b1b0022-b5a6-42e6-99d1-f0f66bfffad1)
 
 ### Visualization of Test Set Predictions - Naive Bayes
 
-![Test Set Predictions](https://github.com/nih4t/Car-Purchase-Prediction/assets/82613166/9cec1e33-bbe5-4823-aa40-b43b48dd2689)
+![Test Set Predictions](https://github.com/nih4t/Car-Purchase-Prediction/assets/82613166/0a918ef2-5592-4cb1-a6b4-925a1100b5a1)
 
 The Naive Bayes model performed well on both the training and testing datasets. The accuracy level of the model, which measures the proportion of correctly predicted outcomes, is 0.9125.
 
