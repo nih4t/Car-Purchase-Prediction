@@ -63,6 +63,16 @@ The Kernel SVM  model performed well on both the training and testing datasets. 
 
 The Naive Bayes model performed well on both the training and testing datasets. The accuracy level of the model, which measures the proportion of correctly predicted outcomes, is 0.9125.
 
+### Visualization of Train Set Predictions - Decision Tree Classification
+
+![Train Set Predictions](https://github.com/nih4t/Car-Purchase-Prediction/assets/82613166/a0920d05-5b46-4513-9ebe-724fdfe3885e)
+
+### Visualization of Test Set Predictions - Decision Tree Classification
+
+![Test Set Predictions](https://github.com/nih4t/Car-Purchase-Prediction/assets/82613166/70bcf0bc-4692-482c-a38c-d14fd1af42f3)
+
+The Decision Tree Classificitaion model performed well on both the training and testing datasets. The accuracy level of the model, which measures the proportion of correctly predicted outcomes, is 0.95.
+
 ## Using the Predictions for Social Network Ads
 
 The predictions from this model can be employed by social network platforms and advertisers to target potential car buyers. By integrating this predictive model into the ad delivery system, advertisers can selectively show car-related ads to users who are more likely to make a car purchase. This targeted approach can lead to higher conversion rates and better return on investment (ROI) for advertisers.
