@@ -53,6 +53,15 @@ The K-nearest neighbors model performed well on both the training and testing da
 
 The Kernel SVM  model performed well on both the training and testing datasets. The accuracy level of the model, which measures the proportion of correctly predicted outcomes, is 0.95.
 
+### Visualization of Train Set Predictions - Naive Bayes
+
+![Train Set Predictions](https://github.com/nih4t/Car-Purchase-Prediction/assets/82613166/1392b8a4-728b-47aa-8ed3-e0dd72fa3240)
+
+### Visualization of Test Set Predictions - Naive Bayes
+
+![Test Set Predictions](https://github.com/nih4t/Car-Purchase-Prediction/assets/82613166/9cec1e33-bbe5-4823-aa40-b43b48dd2689)
+
+The Naive Bayes model performed well on both the training and testing datasets. The accuracy level of the model, which measures the proportion of correctly predicted outcomes, is 0.9.
 
 ## Using the Predictions for Social Network Ads
 
