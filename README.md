@@ -73,6 +73,16 @@ The Naive Bayes model performed well on both the training and testing datasets. 
 
 The Decision Tree Classificitaion model performed well on both the training and testing datasets. The accuracy level of the model, which measures the proportion of correctly predicted outcomes, is 0.95.
 
+### Visualization of Train Set Predictions - Random Forest Classification
+
+![Train Set Predictions](https://github.com/nih4t/Car-Purchase-Prediction/assets/82613166/3067c5da-fbad-414b-8cd0-881b86dd5800)
+
+### Visualization of Test Set Predictions - Random Forest Classification
+
+![Test Set Predictions](https://github.com/nih4t/Car-Purchase-Prediction/assets/82613166/15df8fe9-e971-49c7-96dc-3c6e623550eb)
+
+The Random Forest Classificitaion model performed well on both the training and testing datasets. The accuracy level of the model, which measures the proportion of correctly predicted outcomes, is 0.9125.
+
 ## Using the Predictions for Social Network Ads
 
 The predictions from this model can be employed by social network platforms and advertisers to target potential car buyers. By integrating this predictive model into the ad delivery system, advertisers can selectively show car-related ads to users who are more likely to make a car purchase. This targeted approach can lead to higher conversion rates and better return on investment (ROI) for advertisers.
