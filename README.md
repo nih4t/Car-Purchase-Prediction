@@ -71,7 +71,7 @@ The Naive Bayes model performed well on both the training and testing datasets. 
 
 ![Test Set Predictions](https://github.com/nih4t/Car-Purchase-Prediction/assets/82613166/70bcf0bc-4692-482c-a38c-d14fd1af42f3)
 
-The Decision Tree Classificitaion model performed well on both the training and testing datasets. The accuracy level of the model, which measures the proportion of correctly predicted outcomes, is 0.95.
+The Decision Tree Classificitaion model performed well on both the training and testing datasets. The accuracy level of the model, which measures the proportion of correctly predicted outcomes, is 0.9.
 
 ### Visualization of Train Set Predictions - Random Forest Classification
 
@@ -82,6 +82,12 @@ The Decision Tree Classificitaion model performed well on both the training and 
 ![Test Set Predictions](https://github.com/nih4t/Car-Purchase-Prediction/assets/82613166/15df8fe9-e971-49c7-96dc-3c6e623550eb)
 
 The Random Forest Classificitaion model performed well on both the training and testing datasets. The accuracy level of the model, which measures the proportion of correctly predicted outcomes, is 0.9125.
+
+In this project, I applied various machine learning algorithms to tackle a challenging dataset, seeking the most accurate and efficient models. After careful exploration and experimentation, I discovered that the K Nearest Neighbor (KNN) algorithm and the Support Vector Machine (SVM) with a kernel performed exceptionally well, both achieving an impressive accuracy score of 0.95.
+
+The KNN algorithm proved its effectiveness by leveraging the power of nearby data points to make predictions, demonstrating its adaptability to this particular dataset's intricacies. On the other hand, the SVM with a kernel exhibited its capability to handle complex, non-linear relationships, making it a strong contender alongside KNN.
+
+I meticulously fine-tuned the hyperparameters of both algorithms to maximize their performance while preventing overfitting. In conclusion, we can use both KNN and SVM Kernel models for this dataset.
 
 ## Using the Predictions for Social Network Ads
 
